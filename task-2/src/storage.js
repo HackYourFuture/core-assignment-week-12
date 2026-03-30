@@ -44,6 +44,15 @@ export function addDeck(name, description) {
   return deck;
 }
 
+export function deleteDeck(deckId) {
+  const data = readData();
+  const index = data.decks.findIndex(d => d.id === deckId);
+  if (index === -1) return false;
+  data.decks.splice(index, 1);
+  writeData(data);
+  return true;
+}
+
 // ----------------------------------------------------------------
 // Cards
 // ----------------------------------------------------------------
