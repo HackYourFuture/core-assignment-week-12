@@ -3,10 +3,10 @@ The week 12 assignment for the HackYourFuture Core program can be found at the f
 
 ## Implementation Instructions
 ### Task 1
-Instructions for Task 1
+Add your queries in `queries.sql`.
 
 ### Task 2
-Instructions for Task 2
+1. Run `npm install` to install dependencies.
+2. Run `node app.js` — you should see the app working, printing decks, cards, and operations to the console. **Take a note of this output.** When you are done with the refactor, running `node app.js` should produce the same result.
 
-...
 
