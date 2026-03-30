@@ -1,9 +1,7 @@
-# Core program week X assignment
-HackYourFuture <Track> week X assignment
+# Core program week 12 assignment
+The week 12 assignment for the HackYourFuture Core program can be found at the following link: https://hub.hackyourfuture.nl/core-program-week-12-assignment
 
 ## Implementation Instructions
-Provide clear instructions on how trainees should implement the tasks.
-
 ### Task 1
 Instructions for Task 1
 
